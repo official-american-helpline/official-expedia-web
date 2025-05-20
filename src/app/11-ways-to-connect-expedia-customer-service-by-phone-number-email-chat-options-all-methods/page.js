@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image';
 export const metadata = {
   title: '11 Ways to Connect Expedia Customer Service By Phone Number, Email, Chat Options: All Methods',
