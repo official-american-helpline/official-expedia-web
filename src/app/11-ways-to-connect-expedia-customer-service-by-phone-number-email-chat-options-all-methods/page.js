@@ -299,6 +299,9 @@ export default function MyFirstPostPage() {
         <p style={styles.paragraph}>
           {`Need Help Now? Call Expedia Customer Service at (1 →888→669→8025) or head to Expedia’s Help Center to start a live chat today.`}
         </p>
+        <a href="10-ways-to-speak-with-a-expedia-customer-service-via-phone-number-chat-email-full-contact-guide" style={styles.ctaButton}>
+          Expedia Customer Service Another Blog
+        </a>
       </article>
 
       <footer style={styles.footer}>
