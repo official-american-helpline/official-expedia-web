@@ -101,9 +101,9 @@ export default function MyFirstPostPage() {
         style={styles.image}
       />
       <article>
-        <p style={styles.paragraph}>When you're facing booking troubles, sudden travel changes, or just need clarity about your reservation, the easiest way to solve it is by talking directly to a live person at Expedia. You can reach their support line at 1 (888) 669-8025, available 24 hours a day, 7 days a week. Whether you're changing flights, requesting a refund, or resolving payment concerns, this number connects you with a real human who can assist you instantly.</p>
-          <p style={styles.paragraph}>In this guide, you'll find 12 reliable ways to get help from Expedia's customer care team&mdash;including call support, online chat, social media, and more.</p>
-          <h2 class="text-xl font-semibold my-2">1. Call Expedia's 24/7 Customer Support Hotline</h2>
+        <p style={styles.paragraph}>{`When you're facing booking troubles, sudden travel changes, or just need clarity about your reservation, the easiest way to solve it is by talking directly to a live person at Expedia. You can reach their support line at 1 (888) 669-8025, available 24 hours a day, 7 days a week. Whether you're changing flights, requesting a refund, or resolving payment concerns, this number connects you with a real human who can assist you instantly.`}</p>
+          <p style={styles.paragraph}>{`In this guide, you'll find 12 reliable ways to get help from Expedia's customer care team&mdash;including call support, online chat, social media, and more.`}</p>
+          <h2 class="text-xl font-semibold my-2">{`1. Call Expedia's 24/7 Customer Support Hotline`}</h2>
           <p style={styles.paragraph}>Calling remains the most efficient method to get personalized help. If you have urgent travel changes, payment issues, or need instant rebooking, this method gets you through fast.</p>
           <p style={styles.paragraph}>Expedia Customer Service Number:1 (888) 669-8025</p>
           <p style={styles.paragraph}>Best for: Urgent travel problems, flight modifications, cancellations, and booking errors.</p>
@@ -113,7 +113,7 @@ export default function MyFirstPostPage() {
           <p style={styles.paragraph}>Where to find it: Visit Expedia&rsquo;s website or open the mobile app and go to &ldquo;Help&rdquo; &rarr; &ldquo;Chat with Us.&rdquo;</p>
           <p style={styles.paragraph}>Best for: Quick help like checking refund status, updating contact details, or resolving login issues.</p>
           <h2 class="text-xl font-semibold my-2">3. Send an Email for Non-Urgent Issues</h2>
-          <p style={styles.paragraph}>Email support is perfect for matters that don't require immediate attention. You can also attach documents like medical letters or refund requests.</p>
+          <p style={styles.paragraph}>{`Email support is perfect for matters that don't require immediate attention. You can also attach documents like medical letters or refund requests.`}</p>
           <p style={styles.paragraph}>How to use: Fill out the support form on the Expedia Help page or email via the official support email.</p>
           <p style={styles.paragraph}>Response time: Usually within 48&ndash;72 hours.</p>
           <h2 class="text-xl font-semibold my-2">4. Message Expedia on Social Media</h2>
@@ -137,7 +137,7 @@ export default function MyFirstPostPage() {
           <p style={styles.paragraph}>Don&rsquo;t want to sit on hold? Use the &ldquo;Request a Callback&rdquo; option from the Expedia app or website and get a call when an agent is ready.</p>
           <p style={styles.paragraph}>Perfect for: Busy users who prefer not to wait, especially during peak travel periods.</p>
           <h2 class="text-xl font-semibold my-2">10. Call an International Expedia Number</h2>
-          <p style={styles.paragraph}>If you're traveling abroad or outside the U.S., Expedia offers region-specific support lines. These provide localized help and often come with language options.</p>
+          <p style={styles.paragraph}>{`If you're traveling abroad or outside the U.S., Expedia offers region-specific support lines. These provide localized help and often come with language options.`}</p>
           <p style={styles.paragraph}>Where to find: Go to Expedia&rsquo;s &ldquo;International Support&rdquo; page to find country-specific contact numbers.</p>
           <h2 class="text-xl font-semibold my-2">11. Use Accessibility Services for Special Needs</h2>
           <p style={styles.paragraph}>Expedia provides dedicated support for travelers with disabilities or medical conditions. Whether you need wheelchair access, extra time to board, or a service animal, you&rsquo;ll find help.</p>
@@ -350,7 +350,7 @@ export default function MyFirstPostPage() {
           <p style={styles.paragraph}>Q: Is customer support available around the clock?</p>
           <p style={styles.paragraph}>A: Yes, Expedia&rsquo;s main hotline and digital channels offer 24/7 service.</p>
           <h2 class="text-xl font-semibold my-2">Final Thoughts</h2>
-          <p style={styles.paragraph}>When travel plans go sideways, Expedia provides multiple ways to get assistance&mdash;whether you're facing flight disruptions, need a refund, or just have a quick question. Calling 1 (888) 669-8025 gives you direct access to a real person, but tools like chat, app support, and social messaging also offer great results. With this guide, you&rsquo;ll know exactly where to turn no matter the situation.</p>
+          <p style={styles.paragraph}>{`When travel plans go sideways, Expedia provides multiple ways to get assistance&mdash;whether you're facing flight disruptions, need a refund, or just have a quick question. Calling 1 (888) 669-8025 gives you direct access to a real person, but tools like chat, app support, and social messaging also offer great results. With this guide, you&rsquo;ll know exactly where to turn no matter the situation.`}</p>
       </article>
 
       <footer style={styles.footer}>
