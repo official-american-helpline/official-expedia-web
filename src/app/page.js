@@ -145,7 +145,7 @@ export default function HomePage() {
         <p>
           {`There are several ways to reach Expedia, but not all are created equal. Here's a breakdown of the most reliable methods to get in touch with a live representative.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Phone Support: The Fastest Way to Speak with Someone`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Phone Support: The Fastest Way to Speak with Someone`}</h2>
         <p>
           {`If you need immediate help, calling Expedia is usually your best bet. However, the experience can vary depending on the time of day, the type of booking you made, and even your location.`}
         </p>
@@ -179,7 +179,7 @@ export default function HomePage() {
         <p>
           {`To speak with a live person at Expedia, call their 24/7 customer service hotline at 1_888_669_8025, or use the live chat option on their website or mobile app. If you prefer social media, Expedia is also responsive on platforms like Twitter and Facebook. For non-urgent matters, emailing Expedia is a choice, though you may experience longer wait times.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Live Chat: A Good Alternative`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Live Chat: A Good Alternative`}</h2>
         <p>
           {`If you prefer not to call, Expedia live chat is another way to interact with a real person—though availability varies by region and time of day.`}
         </p>
@@ -200,14 +200,14 @@ export default function HomePage() {
           <li>{`Use the "Speak to an Agent" option multiple times—it sometimes works after a few tries`}</li>
           <li>{`Switch browsers or devices; some users report better results on desktops`}</li>
         </ul>
-        <h2 class="text-xl font-semibold my-2">{`Email and Messaging: Slower but Useful for Documentation`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Email and Messaging: Slower but Useful for Documentation`}</h2>
         <p>
           {`While email isn’t the fastest way to get help, it’s useful for sending detailed information or following up on previous conversations. You can send an email via the Help Center on Expedia’s website.`}
         </p>
         <p>
           {`However, note that response times can range from a few hours to a couple of days. So, this method is best used for non-urgent inquiries or when you need written confirmation of a decision.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Social Media: An Unexpected Avenue`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Social Media: An Unexpected Avenue`}</h2>
         <p>
           {`Believe it or not, Twitter/X has become a powerful tool for customer service. Many companies, including Expedia, monitor their social media accounts closely and respond quickly to complaints or questions.`}
         </p>
@@ -218,23 +218,23 @@ export default function HomePage() {
         <p>
           {`Not every issue requires a call to customer service. But certain situations absolutely warrant speaking with a real agent:`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Flight Changes or Cancellations`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Flight Changes or Cancellations`}</h2>
         <p>
           {`If your flight has been canceled or you need to change your itinerary last minute, a live agent can often rebook you faster than the self-service tools allow.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Refund Requests`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Refund Requests`}</h2>
         <p>
           {`While many bookings are non-refundable, there are exceptions—especially due to unforeseen events like illness or natural disasters. A live agent can review your case and potentially issue a refund or credit.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Hotel or Car Rental Issues`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Hotel or Car Rental Issues`}</h2>
         <p>
           {`If your hotel didn’t honor your reservation or your car rental company charged unexpected fees, a live agent can intervene and possibly secure a refund or alternative arrangement.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Mistakes in Booking`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Mistakes in Booking`}</h2>
         <p>
           {`Did you book the wrong dates or destination? Don’t panic—contact a live agent as soon as possible. They may be able to fix the error without charging a fee, especially if caught early.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Technical Problems`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Technical Problems`}</h2>
         <p>
           {`If you encountered an error while booking or payment was processed twice, a live agent can look into the backend systems and correct the issue.`}
         </p>
@@ -242,29 +242,29 @@ export default function HomePage() {
         <p>
           {`Speaking with a live person is just the first step. To ensure you get the best possible outcome, follow these tips:`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`1. Be Polite and Patient`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`1. Be Polite and Patient`}</h2>
         <p>
           {`Agents deal with hundreds of calls a day, many of them stressful or emotional. Starting off with kindness goes a long way. Even if you're frustrated, staying calm and respectful increases your chances of getting help.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`2. Be Clear and Concise`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`2. Be Clear and Concise`}</h2>
         <p>{`Don’t ramble. Clearly state what happened, what you need, and why. For example:`}</p>
         <p>
           {`“Hi, my flight was canceled due to weather. I’d like to reschedule for tomorrow. Is that possible?”`}
         </p>
         <p>{`This helps the agent understand your request quickly and act accordingly.`}</p>
-        <h2 class="text-xl font-semibold my-2">{`3. Know Your Booking Details`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`3. Know Your Booking Details`}</h2>
         <p>
           {`Have your confirmation number, travel dates, and any relevant screenshots ready. This saves time and avoids confusion.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`4. Ask for Supervisors or Escalation`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`4. Ask for Supervisors or Escalation`}</h2>
         <p>
           {`If the agent can’t help, ask to speak with a supervisor or manager. Sometimes, higher-level reps have more authority to override policies or provide compensation.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`5. Document Everything`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`5. Document Everything`}</h2>
         <p>
           {`Take notes during your conversation. Write down the agent’s name, employee ID, and what was promised. This protects you in case something goes wrong later.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`6. Follow Up in Writing`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`6. Follow Up in Writing`}</h2>
         <p>
           {`After speaking with an agent, send a follow-up email summarizing the discussion and any agreements made. This creates a paper trail and holds Expedia accountable.`}
         </p>
@@ -272,7 +272,7 @@ export default function HomePage() {
         <p>
           {`Let’s take a closer look at some common scenarios travelers encounter—and how speaking with a live person can turn things around.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Problem 1: Non-Refundable Bookings`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Problem 1: Non-Refundable Bookings`}</h2>
         <p>
           {`Many users assume that once a booking is labeled “non-refundable,” there’s no hope. But that’s not always true. If you’re dealing with a medical emergency, family crisis, or sudden travel ban, a live agent may be able to work with you.`}
         </p>
@@ -280,24 +280,24 @@ export default function HomePage() {
         <p>
           {`Explain your situation clearly and provide documentation if possible (e.g., doctor’s note, news article about a travel advisory). Some cases result in full or partial refunds, credits, or vouchers.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Problem 2: Missed Flights Due to Delays`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Problem 2: Missed Flights Due to Delays`}</h2>
         <p>
           {`If you missed a connecting flight because your first leg was delayed, a live agent can often rebook you without additional charges—especially if the flights were booked together.`}
         </p>
         <p>{`Tip: Always check with the airline first, then contact Expedia to coordinate the change.`}</p>
-        <h2 class="text-xl font-semibold my-2">{`Problem 3: Name Errors on Tickets`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Problem 3: Name Errors on Tickets`}</h2>
         <p>
           {`Booking a flight with a typo in your name can cause major headaches. While minor spelling errors may be corrected easily, others require a full ticket change.`}
         </p>
         <p>
           {`A live agent can assess whether the error is acceptable per airline policy or if a correction is needed—and help facilitate the process.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Problem 4: Double Charges or Payment Errors`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Problem 4: Double Charges or Payment Errors`}</h2>
         <p>
           {`Sometimes, payments go through twice or incorrect amounts are charged. A live agent can investigate and initiate a refund if necessary.`}
         </p>
         <p>{`Action Step: Provide a screenshot of your transaction history and booking confirmation.`}</p>
-        <h2 class="text-xl font-semibold my-2">{`Problem 5: Unresponsive Partner Services`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Problem 5: Unresponsive Partner Services`}</h2>
         <p>
           {`Expedia partners with airlines, hotels, and car rental companies worldwide. If one of these partners isn’t responding or honoring your reservation, contact Expedia directly—they often have direct lines to their partners and can escalate the issue.`}
         </p>
@@ -305,30 +305,30 @@ export default function HomePage() {
         <p>
           {`While speaking with a live person is sometimes essential, knowing how to use Expedia’s tools effectively can prevent many issues before they arise.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Manage Trips Through the App`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Manage Trips Through the App`}</h2>
         <p>
           {`The Expedia app offers real-time updates, push notifications, and easy access to your bookings. You can also modify reservations, check-in online, and track flight status—all without needing to call anyone.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Use the Help Center Before Reaching Out`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Use the Help Center Before Reaching Out`}</h2>
         <p>
           {`Expedia’s `}<a href="https://www.expedia.com/services">{`Help Center`}</a>{` is a treasure trove of FAQs, guides, and troubleshooting steps. Spend a few minutes browsing the site before contacting support—it might answer your question instantly.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Enable Trip Notifications`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Enable Trip Notifications`}</h2>
         <p>
           {`Turn on alerts for flight changes, gate updates, and delays. This proactive approach helps you stay ahead of potential disruptions.`}
         </p>
         <h2 class="text-xl font-semibold my-2">{`Frequently Asked Questions About Contacting Expedia Live Person`}</h2>
-        <h2 class="text-xl font-semibold my-2">{`Does Expedia have 24/7 customer service?`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Does Expedia have 24/7 customer service?`}</h2>
         <p>
           {`Yes, Expedia offers 24/7 support for most services, though wait times can vary depending on the time of day and volume of calls.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`How long does it take to get a live person on Expedia?`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`How long does it take to get a live person on Expedia?`}</h2>
         <p>
           {`It typically takes 2–10 minutes , depending on the contact method and time of day. Calling during off-peak hours reduces wait times significantly.`}
         </p>
-        <h2 class="text-xl font-semibold my-2">{`Can I speak to someone in Spanish or another language?`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`Can I speak to someone in Spanish or another language?`}</h2>
         <p style_={{ ...styles.paragraph, marginBottom: '10px' }}>{`Yes. Expedia provides multilingual support. When calling, follow the prompts for your preferred language.`}</p>
-        <h2 class="text-xl font-semibold my-2">{`What should I do if I can't reach anyone?`}</h3>
+        <h2 class="text-xl font-semibold my-2">{`What should I do if I can't reach anyone?`}</h2>
         <p style_={{ ...styles.paragraph, marginBottom: '10px' }}>{`Try different contact methods—call at a different time, use live chat, or reach out via social media. Persistence pays off.`}</p>
         <h2 class="text-xl font-semibold my-2">{`Final Thoughts:`}</h2>
         <p>
